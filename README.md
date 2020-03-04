@@ -1,1 +1,2 @@
 # JavaWarmup
+Basic hackerrank solutions
